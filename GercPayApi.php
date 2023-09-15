@@ -83,7 +83,7 @@ class GercPayApi {
 	 *
 	 * @since 3.8.0
 	 */
-	private const URL = 'https://api.gercpay.com.ua/';
+	private const URL = 'https://api.gercpay.com.ua/api/';
 
 	/**
 	 * GercPay secret key.
